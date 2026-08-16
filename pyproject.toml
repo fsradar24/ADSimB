@@ -1,0 +1,8 @@
+[project]
+name = "adsimb"
+version = "0.1.0"
+
+dependencies = [
+    "PySide6",
+    "pysimconnect @ git+https://github.com/fsradar24/pysimconnect.git@0.9.0",
+]
